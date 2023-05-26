@@ -18,7 +18,7 @@
 - LoFi
 - Cats
 - Materiality
-- H~2~+O~2~+CO~2~+H~2~O+C~2~H~6~O
+- H<sub>2</sub>+O<sub>2</sub>+CO<sub>2</sub>+H<sub>2</sub>O+C<sub>2</sub>H<sub>6</sub>O
 - Birds
 - Shamans
 - Ceremonies

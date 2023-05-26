@@ -108,4 +108,32 @@ sonification ( data + parameters + interactions )
 
 ---
 
+## if you want to know more about DSP+music+programming:
+
+---
+
+### further readings:
+
+- [Curtis Roads: The Computer Music Tutorial](https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/)
+- [Richard Boulanger + Victor Lazzarini: The Audio Programming Book](https://mitpress.mit.edu/9780262014465/the-audio-programming-book/)
+- [Gareth Loy: Musimathics, Volume 1: The Mathematical Foundations of Music](https://mitpressbookstore.mit.edu/book/9780262516556) http://www.musimathics.com
+- [musicdsp.org](http://www.musicdsp.org)
+- …
+
+---
+
+### videos tutorials:
+
+- [SynthSchool](https://www.youtube.com/@SynthSchool) ( "videos on basic synthesizer techniques" )
+    - https://youtu.be/A6pp6OMU5r8
+    - https://youtu.be/9niampRkFW0
+    - https://youtu.be/YsZKvLnf7wU
+    - https://youtu.be/ZQcEyXI1OGM
+    - etcetera
+- [Phil’s Lab: DSP](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) ( "basic DSP techniques implemented in C … not limited to audio" )
+- [Ableton: Get started making music](https://learningmusic.ableton.com)
+- …
+
+---
+
 EOF

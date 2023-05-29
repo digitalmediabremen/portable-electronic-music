@@ -112,18 +112,12 @@ sonification ( data + parameters + interactions )
 
 ---
 
-### further readings:
+### tutorials
 
-- [Curtis Roads: The Computer Music Tutorial](https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/)
-- [Richard Boulanger + Victor Lazzarini: The Audio Programming Book](https://mitpress.mit.edu/9780262014465/the-audio-programming-book/)
-- [Gareth Loy: Musimathics, Volume 1: The Mathematical Foundations of Music](https://mitpressbookstore.mit.edu/book/9780262516556) http://www.musimathics.com
-- [musicdsp.org](http://www.musicdsp.org)
-- …
-
----
-
-### videos tutorials:
-
+- https://www.hackaudio.com/ 
+- http://www.martin-finke.de/articles 
+- http://basicsynth.com 
+- http://www.musicdsp.org 
 - [SynthSchool](https://www.youtube.com/@SynthSchool) ( "videos on basic synthesizer techniques" )
     - https://youtu.be/A6pp6OMU5r8
     - https://youtu.be/9niampRkFW0
@@ -132,6 +126,15 @@ sonification ( data + parameters + interactions )
     - etcetera
 - [Phil’s Lab: DSP](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) ( "basic DSP techniques implemented in C … not limited to audio" )
 - [Ableton: Get started making music](https://learningmusic.ableton.com)
+- …
+
+---
+
+### further readings:
+
+- [Curtis Roads: The Computer Music Tutorial](https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/)
+- [Richard Boulanger + Victor Lazzarini: The Audio Programming Book](https://mitpress.mit.edu/9780262014465/the-audio-programming-book/)
+- [Gareth Loy: Musimathics, Volume 1: The Mathematical Foundations of Music](https://mitpressbookstore.mit.edu/book/9780262516556) http://www.musimathics.com
 - …
 
 ---
